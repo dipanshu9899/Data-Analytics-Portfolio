@@ -1,0 +1,17 @@
+product_id,product_name,category,sub_category,price,cost
+P001,Wireless Mouse,Electronics,Accessories,799,528.51
+P002,Mechanical Keyboard,Electronics,Computer Accessories,3499,2531.45
+P003,USB-C Hub,Electronics,Computer Accessories,1299,899.54
+P004,Laptop Stand,Accessories,Office,1899,1174.33
+P005, Bluetooth Speaker ,Electronics,Audio,2499,1621.79
+P006,Wireless Headphones,Electronics,Audio,3999,2356.42
+P007,Smart Watch,Wearables,Wearables,5999,3402.42
+P008,Power Bank,Electronics,Power,1499,1094.3
+P009,Webcam,Electronics,Computer Accessories,2799,1710.3
+P010,Gaming Mouse,Accessories,Gaming,1799,1063.0
+P011,Office Chair,Furniture,Office,8999,6380.94
+P012,Backpack,Accessories,Bags,1599,1106.75
+P013,LED Monitor,Electronics,Monitors,14999,10433.81
+P014,External SSD,Electronics,Storage,6999,4217.92
+P015,Phone Charger,Accessories,Power,999,602.9
+P016,Tablet,Electronics,Mobile,11999,7208.81
